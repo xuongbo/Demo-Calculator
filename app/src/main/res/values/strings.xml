@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_plus">+</string>
+    <string name="button_minus">-</string>
+    <string name="button_multiply">*</string>
+    <string name="button_divide">/</string>
+    <string name="button_percentage">%</string>
+    <string name="button_dot">.</string>
+    <string name="button_equal">=</string>
+    <string name="button_back">back</string>
+    <string name="button_clear">AC</string>
+    <string name="button_number1">1</string>
+    <string name="button_number2">2</string>
+    <string name="button_number3">3</string>
+    <string name="button_number4">4</string>
+    <string name="button_number5">5</string>
+    <string name="button_number6">6</string>
+    <string name="button_number7">7</string>
+    <string name="button_number8">8</string>
+    <string name="button_number9">9</string>
+    <string name="button_number0">0</string>
+    <string name="error_message">"Please insert again"</string>
+</resources>
