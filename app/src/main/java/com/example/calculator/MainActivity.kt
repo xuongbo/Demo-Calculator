@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity(), InputFragment.MainListener {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         supportActionBar?.hide()
-        textResult = findViewById(R.id.text_number)
+        textResult = findViewById(R.id.result)
     }
 
     override fun onResultUpdate(string: String) {

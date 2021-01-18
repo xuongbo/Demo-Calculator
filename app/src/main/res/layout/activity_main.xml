@@ -8,12 +8,9 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/text_number"
+        android:id="@+id/result"
         android:layout_width="match_parent"
-        android:layout_height="125dp"
-        android:gravity="end"
-        android:textSize="40sp"
-        app:autoSizeStepGranularity="2sp"
+        style="@style/screen_style"
         app:autoSizeTextType="uniform"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
